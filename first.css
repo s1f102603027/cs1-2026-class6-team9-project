@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #f5a623 0%, #f5623b 100%);
+  background: white;
   font-family: 'Arial', 'Hiragino Sans', 'YuGothic', sans-serif;
   min-height: 100vh;
   display: flex;
